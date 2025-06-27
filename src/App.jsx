@@ -5,6 +5,7 @@ import About from './components/About'
 import Descover from './components/Descover'
 import Exploge from './components/Exploge'
 import Traveling from './components/Travelingt'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
     <Descover/>
     <Exploge/>
     <Traveling/>
-    
+    <Footer/>
     </div>
   )
 }
